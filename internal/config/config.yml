@@ -1,0 +1,6 @@
+configuration:
+  host: localhost
+  port: 8080
+  version: v1
+  api: api
+  mssqlDsn: "server=11.0.2100.60;user id=sa;password=12345;port=1433;database=final_project;TrustServerCertificate=true;Encrypt=disable;"
