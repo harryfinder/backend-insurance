@@ -9,7 +9,7 @@ import (
 	"github.com/harryfinder/backend-Insurance/internal/entity"
 	"github.com/harryfinder/backend-Insurance/internal/usecase"
 	pkghttp "github.com/harryfinder/backend-Insurance/pkg/controller/http"
-	gomssqldb "github.com/harryfinder/backend-Insurance/pkg/storage/mssql/go-mssqldb"
+	gomssqldb "github.com/harryfinder/backend-Insurance/pkg/storage/mssql/mssqldb-go"
 	"log"
 	"os"
 	"os/signal"
