@@ -1,4 +1,4 @@
-version: '3.8' # или другая версия, которую вы используете
+version: '3.8' 
 services:
   mssqldb:
     image: mcr.microsoft.com/mssql/server:2019-latest
